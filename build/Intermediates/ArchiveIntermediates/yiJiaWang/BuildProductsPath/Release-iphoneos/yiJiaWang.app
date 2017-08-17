@@ -1,0 +1,1 @@
+/Users/kevin/Desktop/yiJiaWang/yiJiaWang/build/Intermediates/ArchiveIntermediates/yiJiaWang/InstallationBuildProductsLocation/Applications/yiJiaWang.app
